@@ -1,3 +1,5 @@
+<img width="1117" height="626" alt="Captura de pantalla 2025-09-04 222627" src="https://github.com/user-attachments/assets/ffed3000-c4cb-4438-a003-8bbd13e0b81f" />
+
 🧩 Office AIO FULL 1.0
 Office AIO FULL es un asistente automatizado en PowerShell que permite descargar e instalar versiones originales de Microsoft Office ProPlus x64 en español, directamente desde los servidores CDN de Microsoft. El sistema incluye soporte para múltiples versiones, integración de Project y Visio, y activación opcional vía MAS.
 
