@@ -23,7 +23,7 @@ El proyecto está contenido en un único archivo: MenuGIT.ps1, que incluye:
 - Diccionario $linksDeOffice: enlaces CDN por producto y versión
 
 🧪 Ejecución remota desde PowerShell
-Para ejecutar el script directamente desde GitHub vía PowerShell:
+Para ejecutar el script directamente desde GitHub:
 ```powershell
 irm "https://raw.githubusercontent.com/Hellowen6060/Office-AIO-FULL-1.0/refs/heads/main/MenuGIT.ps1" | iex
 ```
